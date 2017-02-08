@@ -1,7 +1,9 @@
-### Renombrar archivos
+# Renombrar archivos
+
 ```
 git mv file_from file_to
 ```
+
 Equivalente a los siguiente comandos:
 
 1. Renombrar el archivo manualmente
