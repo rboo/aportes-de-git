@@ -18,3 +18,4 @@ git config --global user.email "ricardo_23_91@hotmail.com"
 git config --global core.editor
 git config --list
 ```
+Esta línea se agregó desde un equipo windows conectado al repositorio local con Github a traves de HTTPS.
