@@ -18,5 +18,3 @@ git config --global user.email "ricardo_23_91@hotmail.com"
 git config --global core.editor
 git config --list
 ```
-## Aporte desde otra cuenta
-Este texto fue aportado desde la cuenta rboo
